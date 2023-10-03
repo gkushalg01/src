@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="scanner" type="scanner_node.py" name="lidar_scanner" output="screen">
+        
+    </node>
+</launch>
